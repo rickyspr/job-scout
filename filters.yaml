@@ -1,0 +1,143 @@
+# Rules for which jobs trigger a notification. Patterns are regexes matched
+# case-insensitively (except `locations`, which are plain place names).
+# Wrap a pattern in (?-i:...) to make it case-sensitive.
+#
+# A job matches when ALL of these hold:
+#   1. the title matches at least one `job_type` pattern
+#   2. the title matches no `exclude_title` or `non_tech_title` pattern
+#   3. the location matches `locations` or `remote`, or names no specific city
+#      (empty, only "Sweden", "Multiple locations", "3 Locations", ...)
+#   4. if the source has `require_tech: true` (broad sources like JobStream):
+#      the title/category matches a `tech` pattern, or the description matches
+#      at least `tech_min_description_hits` different ones
+
+job_type:
+  - '\bsommar\w*'          # sommarjobb, sommarpraktik, sommarstudent, ...
+  - '\bsummer\b'
+  - '\bintern(s|ship|ships)\b'
+  # "intern" is also Swedish for "internal" ("Systemingenjör till intern IT"), so skip it
+  # when followed by a typical Swedish noun
+  - '\bintern\b(?!\s+(it|it-\w+|revision\w*|revisor\w*|kommunikat\w*|service\w*|support\w*|utbildning\w*|kontroll\w*|controller|säljare|innesäljare|rekryter\w*|ekonomi\w*|redovisning\w*|logistik\w*|transport\w*|verksamhet\w*|projekt\w*|samordnare|handläggare)\b)'
+  - '\bpraktik\w*'         # praktik, praktikant, praktikplats
+  - '\bferiejobb\b'
+
+exclude_title:
+  - '\bthesis\b'
+  - '\bexjobb\w*'
+  - '\bexamensarbete\w*'
+
+# Internships in clearly non-tech areas. Empty this list to get every internship.
+non_tech_title:
+  - '\bmarketing\b'
+  - '\bmarknadsför\w*'
+  - '\bcontent\b'
+  - '\bcommunications?\b'
+  - '\bkommunikat\w*'
+  - '\bsales\b'
+  - '\bförsäljning\w*'
+  - '\bsäljare\b'
+  - '\bkundtjänst\b'
+  - '\bcustomer (service|support|success)\b'
+  - '\brekryter\w*'
+  - '\brecruit\w*'
+  - '\b(hr|human resources|people)\b'
+  - '\blön\w*'
+  - '\bpayroll\b'
+  - '\bekonomi\w*'
+  - '\bredovisning\w*'
+  - '\baccounting\b'
+  - '\bfinance\b'
+  - '\blegal\b'
+  - '\bjurist\w*'
+  - '\bjuridik\w*'
+  - '\bbutik\w*'
+  - '\blager\w*'
+  - '\bwarehouse\b'
+
+locations:
+  # Stockholm area (also matches "Stockholms län")
+  - stockholm
+  - solna
+  - sundbyberg
+  - kista
+  - lidingö
+  - nacka
+  - danderyd
+  - täby
+  - sollentuna
+  - huddinge
+  - järfälla
+  - bromma
+  - upplands väsby
+  - vallentuna
+  - österåker
+  - tyresö
+  - haninge
+  - botkyrka
+  - värmdö
+  - sigtuna
+  - arlanda
+  - södertälje
+  - sodertalje
+  # Linköping / Norrköping area (also matches "Östergötlands län")
+  - linköping
+  - linkoping
+  - norrköping
+  - norrkoping
+  - mjölby
+  - motala
+  - östergötland
+
+remote:
+  - '\bremote\b'
+  - '\bdistans\w*'
+  - '\bfully remote\b'
+  - '\banywhere\b'
+
+# Location fragments that don't name a specific city. A location made up only of these passes.
+unspecific_locations:
+  - '^(sweden|sverige|se|swe)$'
+  - '^multiple locations$'
+  - '^flera orter$'
+  - '^various( locations)?$'
+  - '^\d+ (locations|platser)$'
+  - '^(europe|emea|nordics|nordic|scandinavia)$'
+
+tech_min_description_hits: 2
+
+tech:
+  - '\bsoftware\b'
+  - '\bmjukvar\w*'
+  - '\butvecklar\w*'
+  - '\bdevelop(er|ers|ment)\b'
+  - '\bprogramm(er|ers|ering|ing)\b'
+  - '\bengineer\w*'
+  - '\bingenjör\w*'
+  - '\bcomputer science\b'
+  - '\bdatavetenskap\w*'
+  - '\bdatateknik\w*'
+  - '\bdata/it\b'
+  - '\bdata ?(scien\w*|analy\w*|engineer\w*)'
+  - '\bmachine learning\b'
+  - '\bmaskininlärning\b'
+  - '\bbackend\b'
+  - '\bfrontend\b'
+  - '\bfull.?stack\b'
+  - '\bembedded\b'
+  - '\binbyggda\b'
+  - '\bdevops\b'
+  - '\bcloud\b'
+  - '\bcyber\w*'
+  - '\bit-?säkerhet\b'
+  - '\bfirmware\b'
+  - '\belektronik\w*'
+  - '\belectronics?\b'
+  - '\btelecom\w*'
+  - '\bmjukvaru\w*'
+  - '\bsystemutveckl\w*'
+  - '\btestare\b'
+  - '\bteknisk fysik\b'
+  - '(?-i:\bIT\b)'
+  - '(?-i:\bAI\b)'
+  - '(?-i:\bR&D\b)'
+  - '(?-i:\bQA\b)'

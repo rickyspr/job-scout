@@ -1,0 +1,73 @@
+# Where to look for jobs. Each entry needs a unique `key`, a display `name` and a `type`
+# (see scout/sources/). Optional on every entry:
+#   interval: minimum minutes between polls (default: settings.interval_minutes)
+#   require_tech: only match jobs with tech keywords (for broad, non-tech-only sources)
+#   enabled: false to switch an entry off
+#
+# Finding a company's ATS: open a job ad on their careers page and look at the URL/apply link:
+#   *.teamtailor.com or a career site with /jobs/1234-title  -> teamtailor (slug, or url for custom domains)
+#   jobs.lever.co/<slug>                                     -> lever
+#   boards.greenhouse.io/<slug> / job-boards.greenhouse.io   -> greenhouse
+#   jobs.ashbyhq.com/<slug>                                  -> ashby
+#   jobs.smartrecruiters.com/<slug>                          -> smartrecruiters
+#   <tenant>.wd3.myworkdayjobs.com/<site>                    -> workday
+#   emp.jobylon.com (find jbl_company_id in the page source)  -> jobylon
+
+settings:
+  interval_minutes: 2
+
+sources:
+  # --- Broad feeds -------------------------------------------------------------
+  - key: jobstream
+    name: Arbetsförmedlingen
+    type: jobstream
+    require_tech: true
+
+  - key: thehub
+    name: The Hub
+    type: thehub
+    pages: 3
+    interval: 5
+
+  # --- Companies ---------------------------------------------------------------
+  - {key: spotify, name: Spotify, type: lever, slug: spotify}
+  - {key: seb, name: SEB, type: lever, slug: seb, region: eu, interval: 5}
+  - {key: netlight, name: Netlight, type: lever, slug: netlight}
+
+  - {key: klarna, name: Klarna, type: deel, slug: klarna}
+
+  - {key: ericsson, name: Ericsson, type: eightfold, host: jobs.ericsson.com, domain: ericsson.com, location: Sweden}
+  - {key: microsoft, name: Microsoft / Mojang, type: eightfold, host: apply.careers.microsoft.com, domain: microsoft.com, location: Sweden, interval: 10}
+
+  - {key: saab, name: Saab, type: workday, tenant: saabgroup, wd: wd3, site: Saab_careers}
+  - {key: king, name: King, type: workday, tenant: xboxgaming, wd: wd1, site: King_External_Careers}
+
+  - {key: sectra, name: Sectra, type: jobylon, company_id: 2380}
+
+  - {key: scania, name: Scania, type: successfactors, url: "https://jobs.scania.com"}
+
+  - {key: ifs, name: IFS, type: smartrecruiters, slug: ifs1}
+  - {key: cint, name: Cint, type: smartrecruiters, slug: cint}
+
+  - {key: epidemicsound, name: Epidemic Sound, type: ashby, slug: epidemic-sound}
+  - {key: trustly, name: Trustly, type: ashby, slug: trustly}
+  - {key: legora, name: Legora, type: ashby, slug: legora, interval: 5}
+  - {key: lovable, name: Lovable, type: ashby, slug: lovable}
+  - {key: kognity, name: Kognity, type: ashby, slug: kognity}
+
+  - {key: mentimeter, name: Mentimeter, type: greenhouse, slug: mentimeter}
+  - {key: truecaller, name: Truecaller, type: greenhouse, slug: truecaller}
+  - {key: wolt, name: Wolt, type: greenhouse, slug: wolt}
+
+  - {key: paradox, name: Paradox Interactive, type: teamtailor, url: "https://career.paradoxplaza.com"}
+  - {key: voi, name: Voi, type: teamtailor, url: "https://careers.voi.com"}
+  - {key: tibber, name: Tibber, type: teamtailor, slug: tibber}
+  - {key: storytel, name: Storytel, type: teamtailor, slug: storytel}
+  - {key: bambuser, name: Bambuser, type: teamtailor, slug: bambuser}
+  - {key: polestar, name: Polestar, type: teamtailor, slug: polestar}
+  - {key: anyfin, name: Anyfin, type: teamtailor, slug: anyfin}
+  - {key: qliro, name: Qliro, type: teamtailor, slug: qliro}
+  - {key: bokio, name: Bokio, type: teamtailor, slug: bokio}
+  - {key: quinyx, name: Quinyx, type: teamtailor, slug: quinyx}
+  - {key: mynewsdesk, name: Mynewsdesk, type: teamtailor, slug: mynewsdesk}
+  - {key: funnel, name: Funnel, type: teamtailor, slug: funnel}
