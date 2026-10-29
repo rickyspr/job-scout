@@ -1,0 +1,279 @@
+{
+ "anyfin": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 15,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "bambuser": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 5,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "bokio": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 3,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "cint": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 14,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "epidemicsound": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 31,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "ericsson": {
+  "alerted": false,
+  "data": {
+   "full_fetch_done": true
+  },
+  "fails": 0,
+  "initialized": true,
+  "last_count": 86,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "funnel": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 3,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "ifs": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 257,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "jobstream": {
+  "alerted": false,
+  "data": {
+   "cursor": "2026-10-29T15:05:19.480515+00:00"
+  },
+  "fails": 0,
+  "initialized": true,
+  "last_count": 480,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "king": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 11,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "klarna": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 93,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "kognity": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 4,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "legora": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 305,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "lovable": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 84,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "mentimeter": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 17,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "microsoft": {
+  "alerted": false,
+  "data": {
+   "full_fetch_done": true
+  },
+  "fails": 0,
+  "initialized": true,
+  "last_count": 11,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "mynewsdesk": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 3,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "netlight": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 36,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "paradox": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 19,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "polestar": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 13,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "qliro": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 14,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "quinyx": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 6,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "saab": {
+  "alerted": false,
+  "data": {},
+  "fails": 1,
+  "initialized": false,
+  "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://saabgroup.wd3.myworkdayjobs.com/wday/cxs/saabgroup/Saab_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422"
+ },
+ "scania": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 22,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "seb": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 129,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "sectra": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 62,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "spotify": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 89,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "storytel": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 2,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "thehub": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 45,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "tibber": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 7,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "truecaller": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 32,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "trustly": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 35,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "voi": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 77,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ },
+ "wolt": {
+  "alerted": false,
+  "data": {},
+  "fails": 0,
+  "initialized": true,
+  "last_count": 194,
+  "last_ok": "2026-10-29T15:05:30+00:00"
+ }
+}
