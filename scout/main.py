@@ -217,7 +217,13 @@ async def cmd_check(args):
 
 
 async def cmd_telegram_setup(args):
-    token = os.environ.get("TELEGRAM_BOT_TOKEN") or input("Bot token från @BotFather: ").strip()
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    if not token:
+        try:
+            token = input("Bot token från @BotFather: ").strip()
+        except EOFError:
+            raise SystemExit("Ingen terminal att läsa från. Kör kommandot i ett vanligt terminalfönster, "
+                             "eller sätt TELEGRAM_BOT_TOKEN först.")
     print("Skicka ett meddelande (t.ex. /start) till din bot i Telegram nu. Väntar...")
     async with make_client() as client:
         for _ in range(60):
