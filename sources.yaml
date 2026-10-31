@@ -39,7 +39,8 @@ sources:
   - {key: ericsson, name: Ericsson, type: eightfold, host: jobs.ericsson.com, domain: ericsson.com, location: Sweden}
   - {key: microsoft, name: Microsoft / Mojang, type: eightfold, host: apply.careers.microsoft.com, domain: microsoft.com, location: Sweden, interval: 10}
 
-  - {key: saab, name: Saab, type: workday, tenant: saabgroup, wd: wd3, site: Saab_careers}
+  # Saab's Workday (saabgroup.wd3 / Saab_careers) returned errors in Oct 2026, so saab.com is used instead
+  - {key: saab, name: Saab, type: saab}
   - {key: king, name: King, type: workday, tenant: xboxgaming, wd: wd1, site: King_External_Careers}
 
   - {key: sectra, name: Sectra, type: jobylon, company_id: 2380}

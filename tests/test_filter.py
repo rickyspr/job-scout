@@ -34,6 +34,7 @@ def test_matches_internship_titles(title):
     "Exjobb inom radar",
     "Content Marketing Intern",
     "Senior Backend Engineer",
+    "Co-Op, Supply Chain Spring & Summer 2027",
 ])
 def test_rejects(title):
     assert not FILTER.matches(job(title))

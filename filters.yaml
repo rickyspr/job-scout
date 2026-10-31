@@ -25,6 +25,7 @@ exclude_title:
   - '\bthesis\b'
   - '\bexjobb\w*'
   - '\bexamensarbete\w*'
+  - '\bco-?op\b'           # North American internship term, never Swedish roles
 
 # Internships in clearly non-tech areas. Empty this list to get every internship.
 non_tech_title:
