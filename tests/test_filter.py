@@ -35,6 +35,9 @@ def test_matches_internship_titles(title):
     "Content Marketing Intern",
     "Senior Backend Engineer",
     "Co-Op, Supply Chain Spring & Summer 2027",
+    "phd ai/ml research engineer intern",
+    "PhD Research Intern",
+    "Ph.D. Summer Internship",
 ])
 def test_rejects(title):
     assert not FILTER.matches(job(title))
@@ -52,7 +55,9 @@ def test_rejects(title):
     ("Sweden", True),
     ("Sweden, Multiple Locations, Multiple Locations", True),
     ("3 Locations", True),
+    ("greater stockholm metropolitan area, worldwide", True),   # LinkedIn
     ("Göteborg,Västra Götaland,Sweden", False),
+    ("gothenburg, västra götaland county, sweden", False),
     ("Lund", False),
     ("London, United Kingdom", False),
 ])

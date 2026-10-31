@@ -9,6 +9,11 @@ Greenhouse, Ashby, SmartRecruiters, Eightfold, Jobylon, SuccessFactors, Deel) oc
 Arbetsförmedlingens JobStream och The Hub. Annonserna fångas därför upp innan de hamnar på
 Indeed eller LinkedIn.
 
+Som komplement läses också [EarlyCareers](https://earlycareers.fabifont.dev/), databasen bakom
+[european-tech-internships-2026](https://github.com/LorenzoLaCorte/european-tech-internships-2026).
+Den fylls på med LinkedIn-annonser en gång i veckan, så den ligger dagar efter de andra källorna, men
+den hittar företag som inte finns i `sources.yaml`.
+
 ## Så fungerar det
 
 ```

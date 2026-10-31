@@ -6,6 +6,7 @@
 from . import (
     ashby,
     deel,
+    earlycareers,
     eightfold,
     greenhouse,
     jobstream,
@@ -22,6 +23,7 @@ from . import (
 FETCHERS = {
     "ashby": ashby.fetch,
     "deel": deel.fetch,
+    "earlycareers": earlycareers.fetch,
     "eightfold": eightfold.fetch,
     "greenhouse": greenhouse.fetch,
     "jobstream": jobstream.fetch,

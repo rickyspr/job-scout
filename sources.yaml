@@ -29,6 +29,14 @@ sources:
     pages: 3
     interval: 5
 
+  # LinkedIn jobs from github.com/LorenzoLaCorte/european-tech-internships-2026, scraped weekly.
+  # Days behind the companies' own sites, but covers companies not listed below
+  - key: earlycareers
+    name: EarlyCareers
+    type: earlycareers
+    require_tech: true
+    interval: 30
+
   # --- Companies ---------------------------------------------------------------
   - {key: spotify, name: Spotify, type: lever, slug: spotify}
   - {key: seb, name: SEB, type: lever, slug: seb, region: eu, interval: 5}
