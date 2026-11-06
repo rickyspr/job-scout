@@ -4,8 +4,8 @@
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 16,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 15,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "bambuser": {
   "alerted": false,
@@ -13,15 +13,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "bokio": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 3,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 4,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "cint": {
   "alerted": false,
@@ -29,7 +29,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 9,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "earlycareers": {
   "alerted": false,
@@ -37,7 +37,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 243,
-  "last_ok": "2026-11-06T08:57:08+00:00"
+  "last_ok": "2026-11-06T15:04:32+00:00"
  },
  "epidemicsound": {
   "alerted": false,
@@ -45,7 +45,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 26,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "ericsson": {
   "alerted": false,
@@ -55,7 +55,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 20,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "funnel": {
   "alerted": false,
@@ -63,25 +63,25 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "ifs": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 251,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 258,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "jobstream": {
   "alerted": false,
   "data": {
-   "cursor": "2026-11-06T09:25:00.957574+00:00"
+   "cursor": "2026-11-06T15:32:29.687071+00:00"
   },
   "fails": 0,
   "initialized": true,
-  "last_count": 300,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 378,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "king": {
   "alerted": false,
@@ -89,15 +89,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 7,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "klarna": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 82,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 83,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "kognity": {
   "alerted": false,
@@ -105,15 +105,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "legora": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 315,
-  "last_ok": "2026-11-06T09:26:52+00:00"
+  "last_count": 316,
+  "last_ok": "2026-11-06T15:34:21+00:00"
  },
  "lovable": {
   "alerted": false,
@@ -121,7 +121,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 78,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "mentimeter": {
   "alerted": false,
@@ -129,7 +129,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 15,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "microsoft": {
   "alerted": false,
@@ -139,7 +139,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 13,
-  "last_ok": "2026-11-06T09:17:08+00:00"
+  "last_ok": "2026-11-06T15:24:41+00:00"
  },
  "mynewsdesk": {
   "alerted": false,
@@ -147,7 +147,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "netlight": {
   "alerted": false,
@@ -155,7 +155,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 38,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "paradox": {
   "alerted": false,
@@ -163,15 +163,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 23,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "polestar": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 12,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 13,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "qliro": {
   "alerted": false,
@@ -179,39 +179,39 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "quinyx": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 6,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 7,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "saab": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 659,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 681,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "scania": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 25,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 26,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "seb": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 121,
-  "last_ok": "2026-11-06T09:26:52+00:00"
+  "last_count": 130,
+  "last_ok": "2026-11-06T15:34:21+00:00"
  },
  "sectra": {
   "alerted": false,
@@ -219,23 +219,23 @@
   "fails": 0,
   "initialized": true,
   "last_count": 58,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "spotify": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 86,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 85,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "storytel": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 2,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 3,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "thehub": {
   "alerted": false,
@@ -243,15 +243,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 45,
-  "last_ok": "2026-11-06T09:26:52+00:00"
+  "last_ok": "2026-11-06T15:34:21+00:00"
  },
  "tibber": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 11,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_count": 13,
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "truecaller": {
   "alerted": false,
@@ -259,7 +259,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 37,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "trustly": {
   "alerted": false,
@@ -267,7 +267,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 44,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "voi": {
   "alerted": false,
@@ -275,7 +275,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 81,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  },
  "wolt": {
   "alerted": false,
@@ -283,6 +283,6 @@
   "fails": 0,
   "initialized": true,
   "last_count": 205,
-  "last_ok": "2026-11-06T09:25:08+00:00"
+  "last_ok": "2026-11-06T15:32:42+00:00"
  }
 }
