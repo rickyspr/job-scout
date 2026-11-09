@@ -4,8 +4,8 @@
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 15,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 16,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "bambuser": {
   "alerted": false,
@@ -13,7 +13,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "bokio": {
   "alerted": false,
@@ -21,7 +21,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "cint": {
   "alerted": false,
@@ -29,15 +29,16 @@
   "fails": 0,
   "initialized": true,
   "last_count": 9,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "earlycareers": {
   "alerted": false,
   "data": {},
-  "fails": 0,
+  "fails": 1,
   "initialized": true,
   "last_count": 243,
-  "last_ok": "2026-11-09T13:58:02+00:00"
+  "last_error": "HTTPStatusError: Server error '500 Internal Server Error' for url 'https://earlycareers.fabifont.dev/api/jobs/advanced?location=sweden&location=stockholm&page=1&limit=100'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+  "last_ok": "2026-11-09T21:33:17+00:00"
  },
  "epidemicsound": {
   "alerted": false,
@@ -45,7 +46,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 26,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "ericsson": {
   "alerted": false,
@@ -55,33 +56,33 @@
   "fails": 0,
   "initialized": true,
   "last_count": 20,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "funnel": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 2,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 1,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "ifs": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 262,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 263,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "jobstream": {
   "alerted": false,
   "data": {
-   "cursor": "2026-11-09T14:25:52.418634+00:00"
+   "cursor": "2026-11-09T22:30:58.855832+00:00"
   },
   "fails": 0,
   "initialized": true,
-  "last_count": 316,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 21,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "king": {
   "alerted": false,
@@ -89,15 +90,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 7,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "klarna": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 83,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 81,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "kognity": {
   "alerted": false,
@@ -105,15 +106,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "legora": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 319,
-  "last_ok": "2026-11-09T14:27:45+00:00"
+  "last_count": 324,
+  "last_ok": "2026-11-09T22:32:48+00:00"
  },
  "lovable": {
   "alerted": false,
@@ -121,7 +122,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 79,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "mentimeter": {
   "alerted": false,
@@ -129,7 +130,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 17,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "microsoft": {
   "alerted": false,
@@ -138,8 +139,8 @@
   },
   "fails": 0,
   "initialized": true,
-  "last_count": 13,
-  "last_ok": "2026-11-09T14:18:01+00:00"
+  "last_count": 11,
+  "last_ok": "2026-11-09T22:23:11+00:00"
  },
  "mynewsdesk": {
   "alerted": false,
@@ -147,7 +148,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "netlight": {
   "alerted": false,
@@ -155,23 +156,23 @@
   "fails": 0,
   "initialized": true,
   "last_count": 38,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "paradox": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 23,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 22,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "polestar": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 13,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 14,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "qliro": {
   "alerted": false,
@@ -179,23 +180,23 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "quinyx": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 7,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 6,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "saab": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 637,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 646,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "scania": {
   "alerted": false,
@@ -203,7 +204,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 25,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "seb": {
   "alerted": false,
@@ -211,15 +212,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 131,
-  "last_ok": "2026-11-09T14:27:45+00:00"
+  "last_ok": "2026-11-09T22:32:48+00:00"
  },
  "sectra": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 58,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 61,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "spotify": {
   "alerted": false,
@@ -227,7 +228,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 85,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "storytel": {
   "alerted": false,
@@ -235,7 +236,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "thehub": {
   "alerted": false,
@@ -243,7 +244,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 45,
-  "last_ok": "2026-11-09T14:27:45+00:00"
+  "last_ok": "2026-11-09T22:32:48+00:00"
  },
  "tibber": {
   "alerted": false,
@@ -251,7 +252,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 13,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "truecaller": {
   "alerted": false,
@@ -259,7 +260,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 35,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "trustly": {
   "alerted": false,
@@ -267,15 +268,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 45,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "voi": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 80,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_count": 82,
+  "last_ok": "2026-11-09T22:31:02+00:00"
  },
  "wolt": {
   "alerted": false,
@@ -283,6 +284,6 @@
   "fails": 0,
   "initialized": true,
   "last_count": 198,
-  "last_ok": "2026-11-09T14:26:01+00:00"
+  "last_ok": "2026-11-09T22:31:02+00:00"
  }
 }
