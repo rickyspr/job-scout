@@ -4,8 +4,8 @@
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 16,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 15,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "bambuser": {
   "alerted": false,
@@ -13,7 +13,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "bokio": {
   "alerted": false,
@@ -21,15 +21,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "cint": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 9,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 8,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "earlycareers": {
   "alerted": false,
@@ -37,7 +37,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 243,
-  "last_ok": "2026-11-10T12:52:09+00:00"
+  "last_ok": "2026-11-10T20:55:48+00:00"
  },
  "epidemicsound": {
   "alerted": false,
@@ -45,7 +45,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 26,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "ericsson": {
   "alerted": false,
@@ -55,7 +55,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 20,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "funnel": {
   "alerted": false,
@@ -63,7 +63,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 1,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "ifs": {
   "alerted": false,
@@ -71,17 +71,17 @@
   "fails": 0,
   "initialized": true,
   "last_count": 262,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "jobstream": {
   "alerted": false,
   "data": {
-   "cursor": "2026-11-10T13:20:04.384252+00:00"
+   "cursor": "2026-11-10T21:23:44.126549+00:00"
   },
   "fails": 0,
   "initialized": true,
-  "last_count": 553,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 24,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "king": {
   "alerted": false,
@@ -89,15 +89,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 7,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "klarna": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 79,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 77,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "kognity": {
   "alerted": false,
@@ -105,23 +105,23 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "legora": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 325,
-  "last_ok": "2026-11-10T13:21:56+00:00"
+  "last_count": 329,
+  "last_ok": "2026-11-10T21:25:35+00:00"
  },
  "lovable": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 78,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 77,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "mentimeter": {
   "alerted": false,
@@ -129,7 +129,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 17,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "microsoft": {
   "alerted": false,
@@ -139,7 +139,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-10T13:12:11+00:00"
+  "last_ok": "2026-11-10T21:15:46+00:00"
  },
  "mynewsdesk": {
   "alerted": false,
@@ -147,7 +147,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "netlight": {
   "alerted": false,
@@ -155,7 +155,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 39,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "paradox": {
   "alerted": false,
@@ -163,15 +163,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 22,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "polestar": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 12,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 14,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "qliro": {
   "alerted": false,
@@ -179,7 +179,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "quinyx": {
   "alerted": false,
@@ -187,15 +187,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 6,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "saab": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 642,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 654,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "scania": {
   "alerted": false,
@@ -203,31 +203,31 @@
   "fails": 0,
   "initialized": true,
   "last_count": 25,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "seb": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 132,
-  "last_ok": "2026-11-10T13:21:56+00:00"
+  "last_count": 133,
+  "last_ok": "2026-11-10T21:25:35+00:00"
  },
  "sectra": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 61,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 60,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "spotify": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 86,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 85,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "storytel": {
   "alerted": false,
@@ -235,7 +235,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "thehub": {
   "alerted": false,
@@ -243,7 +243,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 45,
-  "last_ok": "2026-11-10T13:21:56+00:00"
+  "last_ok": "2026-11-10T21:25:35+00:00"
  },
  "tibber": {
   "alerted": false,
@@ -251,7 +251,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 13,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "truecaller": {
   "alerted": false,
@@ -259,23 +259,23 @@
   "fails": 0,
   "initialized": true,
   "last_count": 35,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "trustly": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 45,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 44,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "voi": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 80,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_count": 81,
+  "last_ok": "2026-11-10T21:23:46+00:00"
  },
  "wolt": {
   "alerted": false,
@@ -283,6 +283,6 @@
   "fails": 0,
   "initialized": true,
   "last_count": 188,
-  "last_ok": "2026-11-10T13:20:23+00:00"
+  "last_ok": "2026-11-10T21:23:46+00:00"
  }
 }
