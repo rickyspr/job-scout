@@ -5,7 +5,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 15,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "bambuser": {
   "alerted": false,
@@ -13,7 +13,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "bokio": {
   "alerted": false,
@@ -21,7 +21,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "cint": {
   "alerted": false,
@@ -29,16 +29,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "earlycareers": {
   "alerted": false,
   "data": {},
-  "fails": 1,
+  "fails": 0,
   "initialized": true,
   "last_count": 243,
-  "last_error": "HTTPStatusError: Server error '500 Internal Server Error' for url 'https://earlycareers.fabifont.dev/api/jobs/advanced?location=sweden&location=stockholm&page=1&limit=100'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
-  "last_ok": "2026-11-12T03:43:03+00:00"
+  "last_ok": "2026-11-12T09:43:24+00:00"
  },
  "epidemicsound": {
   "alerted": false,
@@ -46,7 +45,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 27,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "ericsson": {
   "alerted": false,
@@ -56,7 +55,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 20,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "funnel": {
   "alerted": false,
@@ -64,7 +63,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 1,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "ifs": {
   "alerted": false,
@@ -72,17 +71,17 @@
   "fails": 0,
   "initialized": true,
   "last_count": 266,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "jobstream": {
   "alerted": false,
   "data": {
-   "cursor": "2026-11-12T04:41:01.776662+00:00"
+   "cursor": "2026-11-12T10:11:17.913997+00:00"
   },
   "fails": 0,
   "initialized": true,
-  "last_count": 3,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_count": 326,
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "king": {
   "alerted": false,
@@ -90,7 +89,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 8,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "klarna": {
   "alerted": false,
@@ -98,7 +97,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 78,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "kognity": {
   "alerted": false,
@@ -106,7 +105,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "legora": {
   "alerted": false,
@@ -114,7 +113,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 329,
-  "last_ok": "2026-11-12T04:42:54+00:00"
+  "last_ok": "2026-11-12T10:13:09+00:00"
  },
  "lovable": {
   "alerted": false,
@@ -122,7 +121,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 76,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "mentimeter": {
   "alerted": false,
@@ -130,7 +129,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 17,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "microsoft": {
   "alerted": false,
@@ -140,7 +139,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 10,
-  "last_ok": "2026-11-12T04:33:15+00:00"
+  "last_ok": "2026-11-12T10:03:26+00:00"
  },
  "mynewsdesk": {
   "alerted": false,
@@ -148,7 +147,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "netlight": {
   "alerted": false,
@@ -156,7 +155,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 39,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "paradox": {
   "alerted": false,
@@ -164,7 +163,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 19,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "polestar": {
   "alerted": false,
@@ -172,7 +171,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 9,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "qliro": {
   "alerted": false,
@@ -180,7 +179,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "quinyx": {
   "alerted": false,
@@ -188,31 +187,31 @@
   "fails": 0,
   "initialized": true,
   "last_count": 8,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "saab": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 645,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_count": 649,
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "scania": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 26,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_count": 25,
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "seb": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 128,
-  "last_ok": "2026-11-12T04:42:54+00:00"
+  "last_count": 131,
+  "last_ok": "2026-11-12T10:13:09+00:00"
  },
  "sectra": {
   "alerted": false,
@@ -220,7 +219,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 60,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "spotify": {
   "alerted": false,
@@ -228,7 +227,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 85,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "storytel": {
   "alerted": false,
@@ -236,7 +235,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "thehub": {
   "alerted": false,
@@ -244,7 +243,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 45,
-  "last_ok": "2026-11-12T04:42:54+00:00"
+  "last_ok": "2026-11-12T10:13:09+00:00"
  },
  "tibber": {
   "alerted": false,
@@ -252,15 +251,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 12,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "truecaller": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 34,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_count": 33,
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "trustly": {
   "alerted": false,
@@ -268,7 +267,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 44,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "voi": {
   "alerted": false,
@@ -276,7 +275,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 82,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  },
  "wolt": {
   "alerted": false,
@@ -284,6 +283,6 @@
   "fails": 0,
   "initialized": true,
   "last_count": 191,
-  "last_ok": "2026-11-12T04:41:04+00:00"
+  "last_ok": "2026-11-12T10:11:26+00:00"
  }
 }
