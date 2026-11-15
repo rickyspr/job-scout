@@ -5,7 +5,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 13,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "bambuser": {
   "alerted": false,
@@ -13,7 +13,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "bokio": {
   "alerted": false,
@@ -21,7 +21,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "cint": {
   "alerted": false,
@@ -29,7 +29,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 0,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "earlycareers": {
   "alerted": false,
@@ -37,7 +37,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 243,
-  "last_ok": "2026-11-15T13:44:28+00:00"
+  "last_ok": "2026-11-15T19:31:56+00:00"
  },
  "epidemicsound": {
   "alerted": false,
@@ -45,7 +45,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 27,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "ericsson": {
   "alerted": false,
@@ -55,7 +55,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 20,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "funnel": {
   "alerted": false,
@@ -63,7 +63,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 1,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "ifs": {
   "alerted": false,
@@ -71,17 +71,17 @@
   "fails": 0,
   "initialized": true,
   "last_count": 264,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "jobstream": {
   "alerted": false,
   "data": {
-   "cursor": "2026-11-15T14:12:25.940120+00:00"
+   "cursor": "2026-11-15T19:59:53.865433+00:00"
   },
   "fails": 0,
   "initialized": true,
-  "last_count": 30,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_count": 28,
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "king": {
   "alerted": false,
@@ -89,7 +89,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 7,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "klarna": {
   "alerted": false,
@@ -97,7 +97,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 77,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "kognity": {
   "alerted": false,
@@ -105,15 +105,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "legora": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 341,
-  "last_ok": "2026-11-15T14:14:17+00:00"
+  "last_count": 342,
+  "last_ok": "2026-11-15T20:01:45+00:00"
  },
  "lovable": {
   "alerted": false,
@@ -121,7 +121,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 79,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "mentimeter": {
   "alerted": false,
@@ -129,7 +129,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 17,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "microsoft": {
   "alerted": false,
@@ -139,7 +139,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 9,
-  "last_ok": "2026-11-15T14:04:29+00:00"
+  "last_ok": "2026-11-15T19:51:56+00:00"
  },
  "mynewsdesk": {
   "alerted": false,
@@ -147,7 +147,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "netlight": {
   "alerted": false,
@@ -155,7 +155,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 39,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "paradox": {
   "alerted": false,
@@ -163,7 +163,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 19,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "polestar": {
   "alerted": false,
@@ -171,7 +171,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 9,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "qliro": {
   "alerted": false,
@@ -179,7 +179,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "quinyx": {
   "alerted": false,
@@ -187,7 +187,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 9,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "saab": {
   "alerted": false,
@@ -195,7 +195,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 648,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "scania": {
   "alerted": false,
@@ -203,7 +203,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 25,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "seb": {
   "alerted": false,
@@ -211,15 +211,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 131,
-  "last_ok": "2026-11-15T14:14:17+00:00"
+  "last_ok": "2026-11-15T20:01:45+00:00"
  },
  "sectra": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 59,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_count": 57,
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "spotify": {
   "alerted": false,
@@ -227,7 +227,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 87,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "storytel": {
   "alerted": false,
@@ -235,7 +235,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "thehub": {
   "alerted": false,
@@ -243,7 +243,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 45,
-  "last_ok": "2026-11-15T14:14:17+00:00"
+  "last_ok": "2026-11-15T20:01:45+00:00"
  },
  "tibber": {
   "alerted": false,
@@ -251,7 +251,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "truecaller": {
   "alerted": false,
@@ -259,7 +259,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 36,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "trustly": {
   "alerted": false,
@@ -267,7 +267,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 40,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "voi": {
   "alerted": false,
@@ -275,7 +275,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 82,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  },
  "wolt": {
   "alerted": false,
@@ -283,6 +283,6 @@
   "fails": 0,
   "initialized": true,
   "last_count": 191,
-  "last_ok": "2026-11-15T14:12:28+00:00"
+  "last_ok": "2026-11-15T19:59:56+00:00"
  }
 }
