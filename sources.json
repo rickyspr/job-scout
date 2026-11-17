@@ -5,7 +5,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 13,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "bambuser": {
   "alerted": false,
@@ -13,7 +13,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 5,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "bokio": {
   "alerted": false,
@@ -21,7 +21,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "cint": {
   "alerted": false,
@@ -29,15 +29,16 @@
   "fails": 0,
   "initialized": true,
   "last_count": 0,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "earlycareers": {
   "alerted": false,
   "data": {},
-  "fails": 0,
+  "fails": 1,
   "initialized": true,
   "last_count": 243,
-  "last_ok": "2026-11-16T21:35:56+00:00"
+  "last_error": "HTTPStatusError: Server error '500 Internal Server Error' for url 'https://earlycareers.fabifont.dev/api/jobs/advanced?location=sweden&location=stockholm&page=1&limit=100'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+  "last_ok": "2026-11-17T05:04:16+00:00"
  },
  "epidemicsound": {
   "alerted": false,
@@ -45,7 +46,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 26,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "ericsson": {
   "alerted": false,
@@ -55,7 +56,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 20,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "funnel": {
   "alerted": false,
@@ -63,7 +64,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 1,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "ifs": {
   "alerted": false,
@@ -71,27 +72,26 @@
   "fails": 0,
   "initialized": true,
   "last_count": 262,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "jobstream": {
   "alerted": false,
   "data": {
-   "cursor": "2026-11-16T21:55:53.161648+00:00"
+   "cursor": "2026-11-17T06:02:14.293811+00:00"
   },
-  "fails": 4,
+  "fails": 0,
   "initialized": true,
-  "last_count": 36,
-  "last_error": "HTTPStatusError: Server error '502 Bad Gateway' for url 'https://jobstream.api.jobtechdev.se/v2/stream?updated-after=2026-11-16T21%3A50%3A53'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502",
-  "last_ok": "2026-11-16T21:55:56+00:00"
+  "last_count": 20,
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "king": {
-  "alerted": false,
+  "alerted": true,
   "data": {},
-  "fails": 3,
+  "fails": 49,
   "initialized": true,
   "last_count": 7,
   "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://xboxgaming.wd1.myworkdayjobs.com/wday/cxs/xboxgaming/King_External_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
-  "last_ok": "2026-11-16T21:57:57+00:00"
+  "last_ok": "2026-11-17T04:24:15+00:00"
  },
  "klarna": {
   "alerted": false,
@@ -99,7 +99,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 77,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "kognity": {
   "alerted": false,
@@ -107,15 +107,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 2,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "legora": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 340,
-  "last_ok": "2026-11-16T22:05:45+00:00"
+  "last_count": 339,
+  "last_ok": "2026-11-17T06:04:06+00:00"
  },
  "lovable": {
   "alerted": false,
@@ -123,7 +123,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 78,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "mentimeter": {
   "alerted": false,
@@ -131,7 +131,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 15,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "microsoft": {
   "alerted": false,
@@ -141,7 +141,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 10,
-  "last_ok": "2026-11-16T21:55:56+00:00"
+  "last_ok": "2026-11-17T05:54:16+00:00"
  },
  "mynewsdesk": {
   "alerted": false,
@@ -149,7 +149,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 3,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "netlight": {
   "alerted": false,
@@ -157,7 +157,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 41,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "paradox": {
   "alerted": false,
@@ -165,7 +165,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 19,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "polestar": {
   "alerted": false,
@@ -173,7 +173,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 10,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "qliro": {
   "alerted": false,
@@ -181,7 +181,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "quinyx": {
   "alerted": false,
@@ -189,15 +189,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 9,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "saab": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 648,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_count": 602,
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "scania": {
   "alerted": false,
@@ -205,15 +205,15 @@
   "fails": 0,
   "initialized": true,
   "last_count": 26,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "seb": {
   "alerted": false,
   "data": {},
   "fails": 0,
   "initialized": true,
-  "last_count": 149,
-  "last_ok": "2026-11-16T22:05:45+00:00"
+  "last_count": 145,
+  "last_ok": "2026-11-17T06:04:06+00:00"
  },
  "sectra": {
   "alerted": false,
@@ -221,7 +221,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 55,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "spotify": {
   "alerted": false,
@@ -229,7 +229,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 88,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "storytel": {
   "alerted": false,
@@ -237,7 +237,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 4,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "thehub": {
   "alerted": false,
@@ -245,7 +245,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 45,
-  "last_ok": "2026-11-16T22:05:45+00:00"
+  "last_ok": "2026-11-17T06:04:06+00:00"
  },
  "tibber": {
   "alerted": false,
@@ -253,7 +253,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 11,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "truecaller": {
   "alerted": false,
@@ -261,7 +261,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 37,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "trustly": {
   "alerted": false,
@@ -269,7 +269,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 40,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "voi": {
   "alerted": false,
@@ -277,7 +277,7 @@
   "fails": 0,
   "initialized": true,
   "last_count": 82,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  },
  "wolt": {
   "alerted": false,
@@ -285,6 +285,6 @@
   "fails": 0,
   "initialized": true,
   "last_count": 191,
-  "last_ok": "2026-11-16T22:03:55+00:00"
+  "last_ok": "2026-11-17T06:02:16+00:00"
  }
 }
